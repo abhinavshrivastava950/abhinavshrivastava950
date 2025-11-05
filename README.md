@@ -4,7 +4,7 @@
 - 📖 Currently, I'm pursuing a B.Tech in Data Science and Artificial Intelligence at IIIT Naya Raipur.
 - 💻 I’m expanding my skills in Python, JavaScript, and web development, while also diving into competitive programming.
 - 🎯 I'm eager to collaborate on AI-driven projects and innovative tech solutions.
-- 📫 You can reach me at abhinavshri09@gmail.com.
+- 📫 You can reach me at abhinavshrivastava950@gmail.com.
 
 Let's connect and create something amazing together!
 
